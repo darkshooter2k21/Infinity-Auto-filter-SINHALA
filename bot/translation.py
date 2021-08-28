@@ -9,7 +9,7 @@ class Translation(object):
 
 💡 Telegram Auto Filter Bot
 
-I am a filter bot with advanced features currenty workig for any group. මේක ADV AUTO FILTER හි සිංහල සංස්කරණයයි.
+I am a shaz filter bot with advanced features currenty workig for any group. මේක ADV AUTO FILTER හි සිංහල සංස්කරණයයි.
 
 
 🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:- @{}
