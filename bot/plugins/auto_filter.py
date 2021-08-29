@@ -184,7 +184,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"**මෙන්න ඔයා හොයපු 👉 {query} \n\n **" ,
+                text=f"**♻️✌️Dowload your movie👇♻️ 👉 {query}  🔰[ @Forcecomics ]🔰 \n\n **" ,
                 reply_markup=reply_markup,
                 parse_mode="markdown",
                 reply_to_message_id=update.message_id
